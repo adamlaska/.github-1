@@ -1,4 +1,4 @@
-name: Contributor License Agreement Policy 
+name: Contributor License Agreement Policy
 description: CLA policy file
 
 resource: repository
@@ -117,6 +117,10 @@ configuration:
          - opbld16
          - opbld17
          - VSC-Service-Account
+         - wsd-ram-github-app[bot]
+         - docsautomation[bot]
+         - Copilot
+         - Copilot[bot]
       prohibitedCompanies:
          - msft
          - microsoft
